@@ -83,7 +83,7 @@ backPack.color = 'blue';
 
   //Code here
 
- 
+ console.log(backPack)
 
 /*
 You probably noticed that it just alerted [object Object].
