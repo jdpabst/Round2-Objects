@@ -25,7 +25,14 @@ alert(me.name);
   //Code here
 
 
-
+var favoriteThings = {
+  band: 'Wye Oak',
+  food: 'watermelon',
+  person: 'Loren',
+  book: 'Harry Potter',
+  movie: 'Harry Potter',
+  holiday: 'Christmas'
+}
 
 
 
@@ -33,7 +40,8 @@ alert(me.name);
 //After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 
   //Code here
-
+favoriteThings.car = 'Ford Fiesta'
+favoriteThings.brand = 'Great Value'
 
 
 
@@ -42,7 +50,8 @@ alert(me.name);
 
   //Code here
 
-
+favoriteThings.food = 'Chicken Nuggets'
+favoriteThings.book = 'Harry Potter'
 
 
 
