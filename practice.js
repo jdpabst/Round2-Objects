@@ -176,7 +176,9 @@ methodCollection.logHello();
 
   //Code Here
 
+function makePerson(name, birthday, ssn){
 
+}
 
 
 
