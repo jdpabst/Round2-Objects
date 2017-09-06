@@ -6,7 +6,12 @@
   //Code here
 
 
+var me = {
+  name: 'Jessica',
+  age: 23
+};
 
+alert(me.name);
 
 
 
