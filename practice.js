@@ -70,7 +70,10 @@ that is named color, with the value being the color of your backpack.
 */
 
   //Code here
-
+var backPack = {};
+var item = 'firstPocket';
+backPack[item] = 'chapstick';
+backPack.color = 'blue';
 
 
 
